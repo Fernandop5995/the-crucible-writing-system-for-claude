@@ -12,7 +12,7 @@
   merchant counting coins, the woman watching the stairs)
 - Opens on its own the moment she crosses a threshold (the Council chamber)
 - Reads fractures beneath performance: fear, resentment, buried guilt across
-  the Thirteen; which Wardens already knew the full account and which didn't
+  the Twelve; which Wardens already knew the full account and which didn't
 - Distinguishes performed emotion from real (Tauvor's genuine fear beneath
   composure; "not a man performing fear")
 - Puts weight behind every word she speaks; Damien is afraid of her
@@ -40,7 +40,7 @@ is not yet specified in the roadmap.
 | 3 | (Home front) Tella on Elaine: words like daggers, swords like bargaining chips; the mark's weight; Damien's fear |
 | 4 | The duel — she parries both blades simultaneously; her fury in the rain |
 | 5a | The tavern floods her; she reads the room unbidden; feels the void at the gate |
-| 5b | The mark opens at the chamber threshold; reads all Thirteen; carries secret knowledge she can't voice |
+| 5b | The mark opens at the chamber threshold; reads all Twelve; carries secret knowledge she can't voice |
 | 6 | Works the guildhall — the wife's real state beneath the performance, the guards, the servants, the walls |
 
 **[PROPOSED]** The escalation pattern visible here — from reading rooms to

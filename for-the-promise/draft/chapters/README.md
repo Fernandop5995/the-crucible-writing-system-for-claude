@@ -1,19 +1,20 @@
 # Draft Chapters
 
-The author has written chapters 1-4 and the first half of chapter 5, but the
-prose has not yet been added to this repository.
+The author's manuscript, split by chapter from `Book_2.docx` (uploaded
+2026-07-12). **These files are the author's prose — the highest canon
+authority in this project. Do not edit them without explicit instruction.**
 
-**Before any drafting happens here:**
+| File | POV | Words | State |
+|------|-----|-------|-------|
+| chapter-01.md | Brunor | ~4,529 | Complete |
+| chapter-02.md | Elaine | ~3,262 | Complete |
+| chapter-03.md | Phoebe | ~1,361 | Complete |
+| chapter-04.md | Brunor | ~3,741 | Complete |
+| chapter-05.md | Elaine | ~3,737 | Tavern + College arrival written; Council confession beats remain (see outline/chapters/chapter-05.md) |
 
-1. Add the written chapters as `chapter-01.md` through `chapter-05.md`
-   (chapter 5 containing the written first half)
-2. Capture a style profile from them (the crucible-writer skill's style-capture
-   reference covers this) — ideally supplemented with a chapter or two from
-   Book 1
-3. Reconcile the outline records in `../../outline/chapters/` against the
-   actual prose — the outlines were reconstructed from the author's roadmap,
-   and the prose is the higher authority
+Style profile captured from these chapters + the Book 1 sample:
+`../../style-profile.json`
 
-Drafting chapter 5's second half ("The Council") without the written prose in
-place would violate the project's anti-hallucination rules: no voice reference,
-no continuity verification.
+Known copyedit-level items are listed in
+`../../planning/constellation-bible.md` → Continuity Flags (e.g. Ch 1
+"Telvor" → Tauvor; mixed colour/color spellings).

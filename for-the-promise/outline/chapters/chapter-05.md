@@ -1,82 +1,75 @@
-# Chapter 5: The Tavern / The Council
+# Chapter 5 Outline: The Tavern / The Council
 
-**POV:** Elaine | **Status:** FIRST HALF WRITTEN, SECOND HALF TO DRAFT
+**POV:** Elaine | **Status:** WRITTEN through the College arrival and Tauvor's
+first line; **Beats 2-6 of the Council scene remain TO DRAFT**
 
----
-
-## First Half — The Tavern (WRITTEN — reconcile against prose when added)
-
-- The inn: Frederick, Brunor, Elaine at the table; the mark floods Elaine with
-  the room's emotional noise — farmhands by the hearth, the merchant counting
-  coins, the woman watching the stairs
-- Beatrice the serving girl eyeing Frederick
-- The Alessa confrontation: Frederick admits he knew, refuses to let Brunor
-  take the blame alone — "Two ropes. I'd rather neither, but I'm a
-  quartermaster. I count what's there."
-- The Scaleblade reveal: Celisia at the gate, the grey hood, the void where a
-  person should be; charcoal on the handkerchief
-- Pivot: the Order followed them into Glintgate
+> NOTE: the draft file `../../draft/chapters/chapter-05.md` holds the actual
+> prose. This outline records structure and what remains.
 
 ---
 
-## Second Half — The Council (TO DRAFT — author's six beats, canon)
+## Written so far
 
-### Beat 1 — The Chamber
-Timeskip: one week after the tavern. A chamber the Council secured somewhere
-in Glintgate — not their sanctum, not the Archive, not Aedric Spire. The full
-Thirteen in identical Caltheran robes, seated, projecting unity. Nobody
-explains why they traveled here. The trio notices; Frederick and Brunor
-exchange a look. Elaine's mark opens at the threshold: fear off some Wardens,
-resentment off others, guilt buried deep in at least one. Tauvor at the
-center — pale, sickly, muscular, black hair to his neck; measured, purposeful
-voice; owns the space without raising it.
+### Scene 1 — The Tavern (evening, 8th of Ashenfall)
+- Beatrice, the Vel'Eran spirits with the silver ribbon; the mark grinding
+  against forty crammed strangers; the coin-counting merchant
+- The Alessa reckoning: Frederick's "Before." and "Two ropes... I count what's
+  there."; Brunor's "It wasn't his idea."
+- The grey hood identified: Elaine writes *Scaleblade* in charcoal on a
+  handkerchief; names Celisia; compares the void to Mark "before any of us
+  knew what he was"; reveals she stopped the duel to get both blades down
+  before Celisia decided the square was worth her time
+- Elaine withholds "the rain and the words it said" (Damien's parting words)
+- Frederick: "The Order followed us to Glintgate." Brunor: "The council
+  meeting just became the least of our problems."
 
-### Beat 2 — The Confession
-Tauvor opens with the Wyrshade — careful, building a bridge he knows is
-rotten. The vivisection. The illusion it cast. Fifteen researchers hit with
-visions none were built to survive: the Rift, the rune, what waits inside.
-All went mad. Elaine recognizes it before he names it: Kymancy, Detect
-Memory — the Wyrshade showed them something and made them look. She keeps
-this to herself. The mark reads Tauvor: genuine fear beneath composure — a man
-confessing a disaster he caused, still controlling the narrative. It catches
-which Wardens knew the full account and which didn't. Not all Thirteen were
-told equally.
+### Scene 2 — The College of Cvostral (next day, 9th of Ashenfall)
+- The Slivermen's guild hall repurposed by the Caltheran court; the anxious
+  breadth of the kingdom crammed inside
+- Darrian vs Osfeld: the rift crisis, eleven holders' seals, hired steel —
+  "We're the paper in his hand."
+- Unara Lackmin, Queen of Morninghall, measures the trio and stays on Elaine
+- Damien among the river merchants; "smooth walls" to the mark
+- The bare chamber built to leave no record; the mark reads the Twelve (fear
+  worn as boredom; a years-deep guilt)
+- Tauvor's opening: "You came... Within the week. I'd wagered against it."
 
-### Beat 3 — The Butchery
-The researchers turned on each other. Absolute savagery — fatal wounds meant
-nothing; they kept tearing, kept moving, until mages destroyed them with
-fire. Tauvor's composure thins; this is not performed fear; he hasn't slept
-right since. Elaine processes it through the Throng — Melody's Book 1
-intelligence, the Scaleblades. The researchers were connected to something:
-the hive mind. The Council has no name for what happened. Elaine does, and
-can't say it. Brunor goes still — the way he does when something changes the
-shape of a war. Frederick does the arithmetic behind his eyes.
+---
 
-### Beat 4 — The Voice
-One researcher, body destroyed, fire eating through him, spoke — not his
-voice. Something used his mouth: words in a language nobody recognized,
-transcribed phonetically by the witnessing mages. Untranslated. Unidentified.
-The room changes. The voice frightens the Archwarden more than the dead —
-because the voice means something heard them. Something answered.
+## TO DRAFT — the Council confession (author's beats, adjusted to prose)
 
-### Beat 5 — The Pivot
-The trio asks what the voice said. Nobody knows. The conversation pulls into
-First Era history — scholars reaching into the Archive's oldest records to
-identify the tongue. The records suggest a connection to something old that
-sleeps in the deep forests of Vel'Era.
+> Roadmap said "one week after the tavern"; the prose places this the day
+> after the duel. Prose timeline governs (Continuity Flag #3).
 
-### Beat 6 — The Contract
-The real reason lands: the Council wants Johanna's Promise to escort and
-guard a team of researchers into the deep forests of Vel'Era. Standard
-protection work on the surface — exactly the kind of job the Promise takes.
-He doesn't mention the drake. He doesn't say what the researchers are actually
-looking for. Enough horror to make the stakes real; enough withheld to hide
-what they'd walk into. The trio neither accepts nor refuses. They leave
-carrying more questions than they walked in with, and an offer that smells
-wrong but pays well, from people who just confessed to getting fifteen of
-their own slaughtered by something they still don't understand.
+1. **The Confession** — Tauvor opens with the Wyrshade, building a bridge he
+   knows is rotten: the vivisection, the vision assault (the Rift, the rune,
+   what waits inside), fifteen researchers broken. Elaine recognizes Detect
+   Memory — the Wyrshade *showed* them and made them look — and keeps it to
+   herself. The mark sorts which Wardens knew the full account.
+2. **The Butchery** — the researchers turned on each other; fatal wounds meant
+   nothing; mages burned them. Tauvor's composure thins — genuine fear, a man
+   who hasn't slept right since. Elaine reads it through the Throng (Melody's
+   Book 1 intelligence, the Scaleblades): they were *connected* to something.
+   She has the name the Council lacks and can't say it. Brunor's war-shaped
+   stillness; Frederick's arithmetic.
+3. **The Voice** — a burning researcher spoke with something else's mouth;
+   words in no known tongue, transcribed phonetically, untranslated. The voice
+   frightens Tauvor more than the dead: something heard them. Something
+   answered.
+4. **The Pivot** — what did it say? Nobody knows. First Era history; the
+   Archive's oldest records; a connection to something old sleeping in the
+   deep forests of Vel'Era.
+5. **The Contract** — escort and guard researchers into Vel'Era. No drake
+   mentioned; the truth withheld. The trio neither accepts nor refuses; they
+   leave with more questions than they carried in, and an offer that smells
+   wrong but pays well.
 
-### End State
-- Elaine: knows more than she said (Kymancy, the Throng) — cannot voice it
-- Brunor: knows something about this is off
-- Frederick: counting the cost of yes and the cost of no
+### End state to hit
+- Elaine: carrying Kymancy + Throng knowledge she cannot voice
+- Brunor: knows something is off
+- Frederick: counting the cost of yes against the cost of no
+
+### Threads available in-scene
+- The Archwarden's Silence (why Glintgate; why no record)
+- The frightened Warden; the years-deep guilt (whose?)
+- Unara Lackmin waiting outside the chamber doors

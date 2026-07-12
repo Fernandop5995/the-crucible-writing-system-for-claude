@@ -1,43 +1,49 @@
 # Master Outline: For the Promise (Book 2)
 
-> **Provenance**: Canon from `../planning/source-roadmap.md`. Chapters 1-4 and
-> the first half of 5 are WRITTEN — these outlines record the roadmap's account
-> and must be reconciled against the actual prose once it's added to
-> `draft/chapters/`. **[TBD]** = needs author input.
+> Reconciled against the manuscript (draft/chapters/, ~16,600 words), the
+> character sheets, and the worldbuilding compendium. **[TBD]** = author input.
 
 ## Book Facts
 
-- Story opens: 8th of Ashenfall, 982 A.M. — Late Summer, Month of Death (The Stranger)
+- Series: The Eōtria Saga, Book 2 (Book 1: *Riftmarked*, 981-982 A.M.)
+- Manuscript dates: 7th-9th of Ashenfall, **982 A.M.** (compendium window for
+  Book 2 is 983-985 — Continuity Flag #13)
+- Epigraph: Jung — "Until you make the unconscious conscious, it will direct
+  your life, and you will call it fate."
+- Compendium mandate for Book 2: the middle years of the silent five-year
+  countdown to Elyrieth's awakening; escalating political tension; "Elaine
+  discovers what it means to be riftmarked as Brunor and Frederick discover
+  exactly how much it costs to protect Elaine and the Hollow"; the Order
+  manipulates behind the scenes.
 - Total chapters: **[TBD]** | Target words: **[TBD]**
-- POV pattern (Ch 1-6): Brunor → Elaine → Phoebe → Brunor → Elaine → Frederick
-  - The two Brunor chapters bracket the duel from setup to aftermath
-  - Phoebe gets the home-front interlude
-  - Elaine carries the political and supernatural weight across two chapters
-  - Frederick takes the lens for the investigation and the Damien meeting —
-    agency outside the Brunor-Elaine conflict for the first time
+- POV rotation (Ch 1-6): Brunor → Elaine → Phoebe → Brunor → Elaine →
+  Frederick; chapter format: dateline block + one-line italic epigraph
 
 ## Chapter Grid
 
-| Ch | POV | Title/Handle | Function | Status |
-|----|-----|--------------|----------|--------|
-| 1 | Brunor | The Arrival | Summons established; Johanna flashback; hostile city | WRITTEN |
-| 2 | Elaine | The Square | Followed; Damien confrontation; contest of arms accepted | WRITTEN |
-| 3 | Phoebe | The Keep | Home front; Tella; Elaine's danger named | WRITTEN |
-| 4 | Brunor | The Duel | Duel→brawl; Elaine's intervention; guildhall demand; rain argument | WRITTEN |
-| 5 | Elaine | The Tavern / The Council | Alessa confession; Scaleblade reveal; Council confession; poisoned contract | FIRST HALF WRITTEN / SECOND HALF TO DRAFT |
-| 6 | Frederick | The Golden Scale and the Hunt | Guildhall diplomacy; Brunor's hunt; Order is infrastructure and aware | TO DRAFT |
+| Ch | POV | Handle | Function | Status |
+|----|-----|--------|----------|--------|
+| 1 | Brunor | The Arrival | Summons; Johanna's bundle; the monsters argument; Mikah at the gate | WRITTEN (~4,530 w) |
+| 2 | Elaine | The Square | Followed; Hans; Damien revealed as cousin-chancellor; contest accepted | WRITTEN (~3,260 w) |
+| 3 | Phoebe | The Keep | Home front; Tella; Ryn suspicion; Elaine's danger named | WRITTEN (~1,360 w) |
+| 4 | Brunor | The Duel | First blood to Damien; Elaine's intervention; Celisia sighted; the alley reckoning | WRITTEN (~3,740 w) |
+| 5 | Elaine | The Tavern / The Council | Scaleblade named; two-ropes; College of Cvostral; Tauvor opens | WRITTEN through Tauvor's first line; confession beats TO DRAFT |
+| 6 | Frederick | The Golden Scale and the Hunt | Damien's wife; Brunor's hunt; Order = aware infrastructure | TO DRAFT (roadmap) |
 | 7+ | **[TBD]** | | | UNMAPPED |
 
-## The Three Problems (state at end of Ch 6)
+## The Three Problems (state at end of Ch 6, per roadmap)
 
-1. The Council's poisoned contract (Vel'Era escort; drake withheld)
+1. The Council's poisoned contract (Vel'Era escort; the drake withheld;
+   "used twice for the same catastrophe")
 2. Damien's political machinery, operating through his wife
 3. The Order watching them watch it — infrastructure, aware
 
 "The Glintgate arc has its teeth in them."
 
-## Structure Mapping **[PROPOSED — see planning/forge-points/]**
+## Structure Mapping **[PROPOSED]**
 
-- Forge Point 0 (Ignition): Ch 5b-6 — the confession, the contract, the
-  convergence
-- Forge Points 1-3 + Apex: unmapped; candidates in planning/forge-points/
+- Forge Point 0 (Ignition): Ch 5 confession → Ch 6 convergence
+- Forge Points 1-3 + Apex: unmapped — candidates in planning/forge-points/
+- Series constraint to honor: the compendium fixes Book 3 as the awakening;
+  Book 2 must end with the countdown still silent and the kingdoms still
+  divided — the tragedy engine is that nobody learns the clock exists.
