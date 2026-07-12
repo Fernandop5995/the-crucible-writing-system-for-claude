@@ -13,8 +13,8 @@
   },
   "progress": {
     "current_chapter": 5,
-    "current_scene": "Council confession (Tauvor's opening line written; beats remain)",
-    "total_words": 16630,
+    "current_scene": "Chapter 5 second half DRAFTED (pending author review — see draft/chapter-05-draft-notes.md); Chapter 6 next",
+    "total_words": 19270,
     "chapters_complete": 4,
     "status": "mid-draft"
   },
@@ -59,9 +59,10 @@
       "title": "The Tavern / The Council",
       "pov": "Elaine",
       "dates": "8th (evening) and 9th of Ashenfall",
-      "word_count": 3737,
-      "summary": "WRITTEN: The tavern — Beatrice, Vel'Eran spirits; the mark grinding against forty strangers; Frederick's 'Before.' and 'Two ropes... I count what's there.'; the charcoal word on the handkerchief: Scaleblade. Celisia named; the void compared to Mark 'before any of us knew what he was'; why she really stopped the duel. She withholds Damien's rain-words. 'The Order followed us to Glintgate.' Next day, the College of Cvostral: Darrian vs Osfeld (the rift crisis, eleven seals — 'We're the paper in his hand'), Unara Lackmin measuring the trio, Damien's smooth walls, the bare no-record chamber, the mark reading the Twelve, Tauvor's opening line. TO DRAFT: the confession beats (vivisection, butchery, the voice, the pivot, the contract).",
-      "completed": false
+      "word_count": 6378,
+      "summary": "AUTHOR'S HALF: The tavern — Beatrice, Vel'Eran spirits; the mark grinding against forty strangers; Frederick's 'Before.' and 'Two ropes... I count what's there.'; the charcoal word: Scaleblade; Celisia named; the void compared to Mark; why she really stopped the duel; Damien's rain-words withheld. The College of Cvostral: Darrian vs Osfeld, Unara Lackmin, Damien's smooth walls, the no-record chamber, Tauvor's opening. DRAFTED (pending review): the confession — Wyrshade vivisection, fifteen dead, Elaine recognizes inverted Detect Memory and withholds it; the butchery (she names the hive only inwardly); the untranslated voice on the one paper in the room ('Something answered.'); the pivot to First Era records and Vel'Era's deep forests; the escort contract (nine researchers, name-your-rate, truth withheld). Trio neither accepts nor refuses. 'Well. It pays.' / 'It's wrong.'",
+      "completed": false,
+      "_draft_note": "Second half drafted by assistant 2026-07-12; inventions listed in draft/chapter-05-draft-notes.md"
     },
     "6": {
       "title": "The Golden Scale and the Hunt",
