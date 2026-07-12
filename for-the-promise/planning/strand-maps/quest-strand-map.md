@@ -17,7 +17,7 @@ They are being hired to walk into the consequence of their own delivery,
 without being told what it is. Used twice for the same catastrophe.
 
 **Why Them:** **[TBD]** — why the Council specifically wants the Promise (beyond
-the delivery connection) is not stated. The full Thirteen traveled to Glintgate
+the delivery connection) is not stated. The full Council of Twelve traveled to Glintgate
 and won't say why (open thread: The Archwarden's Silence).
 
 ---

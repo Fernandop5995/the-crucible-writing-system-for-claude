@@ -1,19 +1,31 @@
-# Chapter 1: The Arrival
+# Chapter 1 Outline: The Arrival (Brunor)
 
-**POV:** Brunor | **Status:** WRITTEN — reconcile against prose when added
+**Status:** WRITTEN (~4,530 words) | **Dates:** 7th-8th of Ashenfall, 982 A.M.
 
-## Record (from roadmap)
+## Scene 1 — The Blackwood clearing (7th, morning into evening)
+- Brunor and Elaine make camp; Munch; the rabbits; the two moons; House
+  Blackwood's centuries-old peace over the forest
+- Brunor's memory-spiral: Uthred's harshness, the Hudria watchtower, Johanna's
+  ear-flick warmth — and the headache that follows long remembering
+- The campfire argument about monsters: Stonefield, Erasmus, "We breed what we
+  are" vs "I refuse to become one"
+- Elaine reveals Johanna's bundle: the silver-blue river stone and the
+  unfinished stallion carving; her monster-line vow; the future-child promise
+- Brunor shuts the door ("the lake... the lifeless eyes") and walks; they
+  don't speak for the rest of the night
 
-- Campfire in the Blackwood Forest; Brunor and Elaine on the road before
-  Glintgate; the clearing, the rabbits, the two moons
-- Flashback: the watchtower in Hudria — Johanna's words about the stone, about
-  legacy, about what it means to carry a name
-- Next morning: the Silver Road into Glintgate; Mikah at the gate
-- The city through Brunor's eyes — a place that hates them and they hate back
-- Frederick already waiting inside
-- Establishes the Archwarden's summons as the reason they're here
+## Scene 2 — The Silver Road into Glintgate (8th, dawn to midday)
+- The summons context: Archwarden's sealed letter (see Continuity Flag #1:
+  "Telvor" here), presence demanded within the week; Alfred's Wall grudge
+- Glintgate geography through Brunor's contempt: Bridge of Kings, Adian's
+  Mount, castles as "receipts"
+- Silver Gate: Mikah Cullard — the letter inspection, the Morrandis-kin
+  recognition, "Where's the smaller one? Phoebe Morrandis?", Elaine invoking
+  Damien's wrath to get through
+- The stables: Frederick Rowain waiting a day longer than expected; Seahorse
+  Fist banter; "the council tomorrow"; Frederick departs for the Crossroads
+- Elaine: "Wait... We have things to do." (hook into Ch 2)
 
 ## Function
-
-Opens Book 2; plants the Johanna/legacy theme; sets the hostile-city tone;
-puts all three of the trio on the board.
+Book 2 opening; Johanna/legacy theme planted; the monsters argument seeds the
+book's moral spine; war-smell everywhere; all three principals on the board.

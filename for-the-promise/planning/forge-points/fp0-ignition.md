@@ -16,7 +16,7 @@ the door closes behind the trio:
   they now know about the Wyrshade disaster, the voice, and the Vel'Era
   expedition. Knowledge is the threshold; they can't un-know it.
 - **Fire:** Elaine's mark opens at the chamber threshold and reads the full
-  Thirteen. She recognizes Kymancy and the Throng's signature — and begins the
+  Twelve. She recognizes Kymancy and the Throng's signature — and begins the
   book's pattern of carrying unsayable knowledge.
 - **Constellation:** The three process one horror three different ways
   (Brunor's stillness, Frederick's arithmetic, Elaine's silence), and Ch 6
@@ -28,13 +28,13 @@ By the end of Chapter 6 the roadmap states the point-of-no-return outright:
 ## Canon Scene Material (Ch 5b, beats 1-6)
 
 1. **The Chamber** — one-week timeskip; a secured chamber, not the sanctum,
-   not the Archive, not Aedric Spire; the full Thirteen in identical Caltheran
+   not the Archive, not Aedric Spire; the full Council of Twelve in identical Caltheran
    robes projecting unity; no explanation for the travel; the mark bleeds
    fear/resentment/buried guilt through the performance; Tauvor owns the room.
 2. **The Confession** — the Wyrshade vivisection; the illusion; fifteen
    researchers hit with visions none were built to survive; the Rift; the
    rune; all went mad. Elaine recognizes Detect Memory and keeps it to
-   herself. Not all Thirteen were told equally.
+   herself. Not all of the Twelve were told equally.
 3. **The Butchery** — the researchers turned on each other; wounds that should
    have been fatal meant nothing; mages destroyed them with fire. Elaine
    reads it: the hive mind. The Council has no name for it. She does, and
@@ -59,6 +59,6 @@ By the end of Chapter 6 the roadmap states the point-of-no-return outright:
 
 ## Open Question
 
-The Archwarden's Silence: why the full Thirteen traveled to Glintgate is
+The Archwarden's Silence: why the full Council of Twelve traveled to Glintgate is
 deliberately unanswered (unsafe Archive? distance from the sanctum? Order
 influence?). Seed, don't resolve.
