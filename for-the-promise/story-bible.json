@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "title": "For the Promise",
+    "series": "[Series name TBD]",
+    "book_number": 2,
+    "target_words": null,
+    "target_chapters": null,
+    "words_per_chapter": null,
+    "created": "2026-07-12T21:00:00",
+    "updated": "2026-07-12T21:00:00",
+    "_provenance": "Populated retroactively from the author's roadmap (planning/source-roadmap.md). Chapters 1-4 and 5 (first half) are written by the author; summaries here record the roadmap and must be reconciled against the actual prose when it is added to draft/chapters/."
+  },
+  "progress": {
+    "current_chapter": 5,
+    "current_scene": 2,
+    "total_words": 0,
+    "chapters_complete": 4,
+    "status": "mid-draft (chapter 5 second half next)"
+  },
+  "chapters": {
+    "1": {
+      "title": "The Arrival",
+      "pov": "Brunor",
+      "summary": "Campfire in the Blackwood Forest; Brunor and Elaine on the road before Glintgate; the clearing, the rabbits, the two moons. Flashback to the watchtower in Hudria and Johanna's words about the stone, legacy, and carrying a name. The Silver Road into Glintgate; Mikah at the gate; a city that hates them and they hate back. Frederick already waiting inside. Establishes the Archwarden's summons.",
+      "completed": true
+    },
+    "2": {
+      "title": "The Square",
+      "pov": "Elaine",
+      "summary": "Followed since the gate (the necklace, the man in the alley). Damien's messenger at Bordou Square; Brunor's dagger at his throat. Damien arrives with guards: insults, accusations about Alessa's ambush, the Naaren spy counter-accusation. Damien draws on Elaine; Brunor accepts the contest of arms. Ends as the duel begins.",
+      "completed": true
+    },
+    "3": {
+      "title": "The Keep",
+      "pov": "Phoebe",
+      "summary": "Caer Seryth. Phoebe struggles with her training sequence; Tella corrects her. Phoebe worries about Elaine in Damien's city, Brunor's restlessness, Frederick barely cleared by West. Tella reminds her who trained Elaine — words like daggers, swords like bargaining chips; the riftmark's weight; Damien's fear. Phoebe whispers the truth Tella didn't say: dangerous to her enemies and to herself.",
+      "completed": true
+    },
+    "4": {
+      "title": "The Duel",
+      "pov": "Brunor",
+      "summary": "Bordou Square in the rain. Brunor reads Damien's court fencing over spearman's instincts. First blood to Damien. Psychological warfare (Uthred, Elaine, Alessa); Brunor charges; duel becomes brawl. Elaine parts them, parrying both blades — Nullbrand and the golden blade. Damien's parting words: Golden Scale guildhall by week's end. The rain argument about Alessa; ends in silence.",
+      "completed": true
+    },
+    "5": {
+      "title": "The Tavern / The Council",
+      "pov": "Elaine",
+      "summary": "FIRST HALF (written): the inn; the mark floods Elaine with the room's noise; Beatrice eyes Frederick; Frederick admits he knew about Alessa ('Two ropes...'); the Scaleblade reveal — Celisia at the gate, the void, charcoal on the handkerchief; the Order followed them in. SECOND HALF (to draft): one week later, the Council chamber — the Wyrshade confession, the butchery, the voice, the Vel'Era escort contract; the trio neither accepts nor refuses.",
+      "completed": false
+    },
+    "6": {
+      "title": "The Golden Scale and the Hunt",
+      "pov": "Frederick",
+      "summary": "TO DRAFT: Frederick and Elaine at the Golden Scale guildhall face Damien's wife instead of Damien; Brunor hunts the Order through the city and learns it is infrastructure — and aware. Convergence: three problems at once. The Glintgate arc has its teeth in them.",
+      "completed": false
+    }
+  },
+  "character_states": {
+    "brunor": {
+      "location": "Glintgate",
+      "emotional_state": "Restless; silent toward Elaine after the rain argument; war-shaped stillness after the Council confession",
+      "knows": [
+        { "fact": "Something about Alessa he has kept from Elaine (content TBD)", "learned_in": "pre-book" },
+        { "fact": "The Council's Wyrshade confession, the voice, the Vel'Era contract offer", "learned_in": "ch5" }
+      ],
+      "relationships": {
+        "elaine": "Fractured — argument ended in silence; she still trusts him with the hunt",
+        "frederick": "Frederick covered for him at the tavern; debt open"
+      }
+    },
+    "elaine": {
+      "location": "Glintgate",
+      "emotional_state": "Fury cooled into working focus; carrying unsayable knowledge",
+      "knows": [
+        { "fact": "Kymancy / Detect Memory — recognized the Wyrshade's assault for what it was", "learned_in": "ch5" },
+        { "fact": "The Throng hive mind, from Melody's Book 1 intelligence and the Scaleblades", "learned_in": "book1" },
+        { "fact": "Celisia deliberately revealed herself at the gate", "learned_in": "ch5" },
+        { "fact": "Frederick knew about Alessa too", "learned_in": "ch5" }
+      ],
+      "inventory": [
+        { "item": "Nullbrand", "acquired_in": "pre-book", "status": "possessed" },
+        { "item": "The golden blade (ownership ambiguous - TBD)", "acquired_in": "TBD", "status": "wielded in ch4" }
+      ],
+      "relationships": {
+        "brunor": "Fractured but functional",
+        "tella": "Former student",
+        "damien": "He fears her; drew on her anyway"
+      }
+    },
+    "frederick": {
+      "location": "Glintgate",
+      "emotional_state": "Counting the cost of yes and the cost of no",
+      "knows": [
+        { "fact": "Knew about Alessa; admitted it at the tavern", "learned_in": "ch5" },
+        { "fact": "The Council's confession and contract offer", "learned_in": "ch5" }
+      ],
+      "relationships": {
+        "brunor": "Refused to let him take the blame alone",
+        "west": "Barely cleared by West (context TBD)"
+      }
+    },
+    "phoebe": {
+      "location": "Caer Seryth",
+      "emotional_state": "Worried about the trio; frustrated with her training sequence",
+      "knows": [
+        { "fact": "Elaine is dangerous to her enemies and to herself", "learned_in": "ch3" }
+      ],
+      "relationships": {
+        "tella": "Student — rough warmth and hard truths"
+      }
+    },
+    "tella": {
+      "location": "Caer Seryth",
+      "emotional_state": "Steady; withholding one truth about Elaine",
+      "knows": [],
+      "relationships": {
+        "phoebe": "Mentor",
+        "elaine": "Trained her"
+      }
+    }
+  },
+  "established_facts": [
+    { "fact": "Story opens 8th of Ashenfall, 982 A.M. — Late Summer, Month of Death (The Stranger)", "established_in": "roadmap header" },
+    { "fact": "The world has two moons", "established_in": "ch1" },
+    { "fact": "Johanna's Promise delivered the Wyrshade to the Council", "established_in": "roadmap open threads" },
+    { "fact": "Fifteen Council researchers went mad from the Wyrshade's vision assault (the Rift, the rune, what waits inside) and butchered each other; mages destroyed them with fire", "established_in": "ch5" },
+    { "fact": "A voice spoke through a burning researcher in an unidentified tongue, transcribed phonetically, untranslated", "established_in": "ch5" },
+    { "fact": "First Era records suggest the tongue connects to something old sleeping in the deep forests of Vel'Era", "established_in": "ch5" },
+    { "fact": "The Council's researchers are actually looking for a slumbering drake; the Promise was not told", "established_in": "roadmap open threads" },
+    { "fact": "The Order's presence in Glintgate is infrastructure, not a cell — and it is aware of being investigated", "established_in": "ch6" },
+    { "fact": "The full Thirteen traveled to Glintgate and will not say why", "established_in": "ch5" },
+    { "fact": "Kymancy contains Detect Memory: the caster taps the history of a place and sees it", "established_in": "ch5" },
+    { "fact": "Damien's fighting style is court fencing built on a spearman's instincts", "established_in": "ch4" },
+    { "fact": "Tauvor: pale, sickly, muscular, black hair to his neck, measured purposeful voice", "established_in": "ch5" }
+  ],
+  "foreshadowing": {
+    "planted": [
+      { "thread": "The Archwarden's Silence — why the Thirteen traveled to Glintgate", "planted_in": "ch5", "expected_payoff": "TBD", "paid_off": false },
+      { "thread": "Celisia's deliberate reveal to Elaine", "planted_in": "ch5", "expected_payoff": "TBD", "paid_off": false },
+      { "thread": "Brunor's unsaid thing; Frederick's covering debt", "planted_in": "ch4-5", "expected_payoff": "TBD", "paid_off": false },
+      { "thread": "Damien's blindness — protects or dooms him", "planted_in": "ch2-6", "expected_payoff": "TBD", "paid_off": false },
+      { "thread": "Alessa — ambush, accusation, Naaren spy counter-accusation", "planted_in": "ch2", "expected_payoff": "TBD", "paid_off": false },
+      { "thread": "Caelus — the void may be his influence, not Celisia's nature", "planted_in": "ch5", "expected_payoff": "TBD", "paid_off": false },
+      { "thread": "The Poisoned Contract — used twice for the same catastrophe", "planted_in": "ch5", "expected_payoff": "TBD", "paid_off": false },
+      { "thread": "Charcoal on the handkerchief", "planted_in": "ch5", "expected_payoff": "TBD", "paid_off": false }
+    ],
+    "paid_off": []
+  },
+  "timeline": {
+    "1": "8th of Ashenfall, 982 A.M. (night, Blackwood Forest) to next morning (Glintgate)",
+    "2": "Same arc as ch1 arrival (exact day TBD)",
+    "3": "Concurrent with the Glintgate events (Caer Seryth)",
+    "4": "Duel day (rain; exact date TBD)",
+    "5": "First half: after the duel. Second half: one week after the tavern"
+  },
+  "invented_details": [],
+  "locations": {
+    "blackwood_forest": { "description": "Forest on the road before Glintgate; campfire, clearing, rabbits, two moons", "first_seen": "ch1" },
+    "silver_road": { "description": "Road into Glintgate", "first_seen": "ch1" },
+    "glintgate": { "description": "Hostile city; Damien's power base; Bordou Square; Golden Scale guildhall", "first_seen": "ch1" },
+    "hudria": { "description": "Watchtower; Johanna flashback", "first_seen": "ch1 (flashback)" },
+    "caer_seryth": { "description": "Johanna's Promise home keep; training yard", "first_seen": "ch3" },
+    "vel_era": { "description": "Deep forests; expedition target; something old sleeps there", "first_seen": "ch5 (referenced)" },
+    "aedric_spire": { "description": "Council seat (not the meeting site)", "first_seen": "ch5 (referenced)" },
+    "the_archive": { "description": "Council repository; Wyrshade disaster site; oldest First Era records", "first_seen": "ch5 (referenced)" }
+  },
+  "relationships": {
+    "brunor:elaine": { "status": "Fractured by the Alessa argument; silence; conditional trust holds", "history": [] },
+    "brunor:frederick": { "status": "Debt open — Frederick covered for him", "history": [] },
+    "elaine:frederick": { "status": "Working trust; he grounds her at the guildhall", "history": [] },
+    "phoebe:tella": { "status": "Mentor/student", "history": [] },
+    "trio:damien": { "status": "Contest of arms fought; negotiation via his wife", "history": [] },
+    "trio:council": { "status": "Employer with confessed disaster; contract pending", "history": [] }
+  },
+  "mercy_engine": {
+    "mercy_acts": [],
+    "mercy_refused": [],
+    "mercy_balance": 0
+  }
+}
