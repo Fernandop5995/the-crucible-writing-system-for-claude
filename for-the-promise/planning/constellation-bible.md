@@ -301,3 +301,39 @@ Glintgate; the roadmap plants that the void may have been *his* influence.
 15. **Morninghall.** Queen Unara Lackmin and the Knights of Piety (Ch 5 prose)
     do not appear in the compendium's rulers/settlements — new Book 2 canon to
     backfill into the source docs.
+
+---
+
+## Planning Handoff Updates (2026-07-12 — supersedes earlier entries where they conflict)
+
+- **Mark Revanius — RESOLVED**: "lost to the Order" in the siege; went east
+  with Judas and Celisia to take the Vigil. The Ch 5 line ("before any of us
+  knew what he was") now has its referent: the betrayal.
+- **Tella**: scarred in the siege; her limp is an artifice leg made by Lune
+  (revealed in later chapters; she is otherwise "literally fine" by Ch 3).
+- **Elaine**: lost the left pinky IN THE SIEGE; refused Aunt Lysandria's
+  political marriage offer between books (stalemate holds).
+- **Phoebe's squad** (canon): the Hollow, Julissa Blackwood, **Carmen** (shy
+  transmutor — new name, no sheet yet), Mirian Grifamen, Lorian Detania.
+  Ferrena promoted to captain with a new squad.
+- **New POV: Justice Clayrr** (Varkaan thread) — carries the water-poisoning
+  stain from Ironcross; confronts systemic Order rot in Varkaan.
+- **New POV: Galeran Quller** (Halreth → Aethryn thread) — crew dead (Rusk,
+  Thatch, Thom), hunted by **Anverus**; travels with **Naeryn Mareen**, whom
+  the Kymancy Rift "taught" a masking sigil and who carries growing visions
+  of the rift network; they seek the Artifice Rift on Aethryn (first rift
+  ever opened, by Archmage **Liraeth Varn** — the first Riftmarked).
+- **Virginia — NEW Scaleblade (canon locked)**: Duke Covington's wife, the
+  true power of Varkaan's House Covington; full bluesteel armor; denied
+  Justice supplies (systemic destabilization, not personal targeting); her
+  helm is **Solumancy** — one of the three missing drake-helms (Tethryn).
+  Reveal: Act 3 of Book 2.
+- **Uthred**: missing by Act 3; Brunor assumes his title; **Reyka is made
+  commander**.
+- **Frederick**: no POV in Book 2 (five-POV canon lock); may hold Caer
+  Seryth during the Vel'Era mission.
+- **Damien**: knowing participant vs useful idiot — still TBD; his hostility
+  pre-builds the council's scapegoat narrative either way.
+- **Elyrieth**: the author's answer sheet states the drake is "actually
+  awake and has been watching her [Elaine] over the years." Handle with
+  care — this recontextualizes the Shadowfen pulse and the countdown.
