@@ -40,3 +40,23 @@
 - Beatrice eyeing Frederick; Fennra Veyne in love with him (Ch 5, sheets)
 - The choirmaster who sent a boy to fetch the Mothers (Ch 2)
 - Elaine's promise about the stone: a gift for her future child (Ch 1)
+
+## Planning Handoff Updates (2026-07-12)
+
+- Thread #9 (Mark) — RESOLVED as backstory: Mark defected to the Order; took
+  the Vigil with Judas and Celisia. Its Book 2 payoff is now the wound the
+  trio carries, not a mystery.
+- Thread #8 (Poisoned Contract) — REVISED by handoff: the true shape is the
+  scapegoat architecture around a *recovery* of already-missing scholars
+  (see master-outline conflicts before drafting against the old escort
+  version).
+- NEW: Virginia (Duke Covington's wife) — Scaleblade, Solumancy helm (one of
+  the three missing); reveal scheduled Act 3.
+- NEW: Naeryn's rift visions — the rifts are a network; the road to the
+  first Riftmarked (Liraeth Varn).
+- NEW: The Pevlium invitation / the ball — winter 982.
+- NEW: Uthred goes missing by Act 3; Brunor assumes the title; Reyka made
+  commander.
+- NEW (handle with care): the author's answer sheet says Elyrieth is awake
+  and has watched Elaine for years — recontextualizes "I see you, little
+  vessel."

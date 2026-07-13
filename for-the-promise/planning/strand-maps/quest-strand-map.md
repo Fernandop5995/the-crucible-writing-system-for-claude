@@ -98,3 +98,13 @@ The roadmap ends at Chapter 6. Structural guidance for planning ahead:
   the Council's own concealment.
 - **How does it seem impossible?** **[TBD]** — beyond Ch 6.
 - **How is it resolved?** **[TBD]** — beyond Ch 6.
+
+## Planning Handoff Update (2026-07-12) — Movements II-V now largely mapped
+
+The handoff (source-planning-handoff.md §6) supersedes the [PROPOSED]
+guidance above: Act Two = mission prep, the Vel'Era border crime, the forest,
+signs of the scholars, parallel Justice/Galeran/Phoebe threads; Act Three =
+the council's play exposed, Elaine's Kymancy milestone, Brunor's spiral into
+Uthred's vacant title, Virginia's reveal, the queen's bargain. The "recede
+deceptively" question is answered structurally: the Glintgate pressures hand
+off to the forest conspiracy while the Order works through institutions.

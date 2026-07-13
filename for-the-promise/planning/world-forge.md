@@ -133,3 +133,26 @@ deep forests; the Council's expedition contract conceals a slumbering
 is at the Shadowfen, so the Vel'Era sleeper is presumably a *different* drake
 (fourteen exist; three helmets are missing). Author to confirm what the
 Council knows vs what is true.
+
+## Planning Handoff Updates (2026-07-12)
+
+- **Book 2 window confirmed: 982-985 A.M.** (Flag #13 resolved — the
+  compendium's "983-985" was off by the start year).
+- **The Vigil has fallen**: Judas, Celisia, and Mark took it after the siege;
+  the Kymancy Rift is under joint Order/Naaren control and heavily fortified;
+  the Halreth delegates there were killed — Halreth verges on declaring war.
+- **The Wyrshade chain (canon)**: the vivisected Wyrshade read the scholars'
+  minds (riftborn, hive-connected) and collapsed them to brain death; their
+  knowledge — including Elyrieth's Vel'Era location — transmitted to the
+  Throng. The five-year countdown now has a destination.
+- **Vel'Era's borders are closed** between books; entering is a crime — the
+  Promise's mission is a border violation by design (scapegoat architecture).
+- **Aethryn enters the story**: Galeran and Naeryn cross the Selenic Deep;
+  the Artifice Rift there was the first ever opened (Archmage Liraeth Varn).
+  The Throng attacks on Iskar (barely an invasion, quickly stopped) and
+  Aethryn (bigger, took years) have been reduced to folklore on Eòs — the
+  Order made it so.
+- **The rifts are a network** — knowledge nobody on Eòs currently possesses;
+  Naeryn's arc begins revealing it.
+- **House Pevlium invitation**: winter 982, "the ball" — placement in Act
+  One/Two pending.

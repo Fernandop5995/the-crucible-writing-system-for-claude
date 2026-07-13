@@ -45,22 +45,28 @@ Book Title: For the Promise
 - `/crucible-suite:crucible-restore` - Restore from backup
 
 ## Recent Decisions
-- Manuscript (5 chapters) ingested and split into draft/chapters/
-- Style profile captured (style-profile.json) from Book 2 prose + Book 1 sample
-- All planning docs reconciled against character sheets + worldbuilding
-  compendium; Dark Mirror resolved as the Order's canon foil web
-- Canon resolutions: Archwarden = Rhen Tauvor; Council of Twelve; Caer Seryth
-  in Halreth's Vespur Plains; Nullbrand is Brunor's
+- **Planning handoff ingested (planning/source-planning-handoff.md) — the
+  governing plan.** Five POVs (Brunor/Elaine/Phoebe/Justice/Galeran), three
+  acts, 25-28 chapters, 982-985 A.M., the council's scapegoat play
+- Handoff resolutions: Flag #13 (982 start confirmed); Mark defected to the
+  Order (the Vigil taken; Kymancy Rift under Order/Naaren control); Elaine's
+  pinky lost in the siege; Tella's limp = artifice leg; Virginia the
+  Scaleblade (Solumancy helm) revealed Act 3
+- Manuscript ingested; style profile + banned list enforced; chapters 5b and
+  6 drafted (now partially off-canon vs handoff — see below)
 
 ## Open Questions (author input needed)
-- **Flag #13**: Book 2's year — manuscript says 982 A.M.; compendium says
-  983-985
-- Ch 1 "Telvor" → Tauvor (one-word prose fix, author's call to make)
+- **CONFLICT 1**: drafted ch 5 council scene (full confession + escort
+  contract, per roadmap) vs handoff (subtle implication + recovery of
+  already-missing scholars + scapegoat shape) — rework or keep?
+- **CONFLICT 2**: drafted ch 6 is Frederick POV; handoff canon-locks five
+  POVs without him — re-POV, keep as exception, or shelve?
+- Council venue wording: handoff says "Golden Scales guildhall"; written
+  prose says College of Cvostral
+- Damien: knowing participant or useful idiot (author's TBD)
 - Damien's unheard rain-words to Elaine — planned reveal point?
-- What exactly the Promise "lost" in the siege ("to lose the rift...")
-- What Mark (Revanius?) turned out to be, and when the reader learns it
-- Chapter count / target length; which pressure recedes during the Scattering
-- Full flag list: planning/constellation-bible.md → Continuity Flags (15)
+- Ch 1 "Telvor" → Tauvor (one-word prose fix, author's call)
+- Remaining flags: planning/constellation-bible.md → Continuity Flags
 
 ---
 
