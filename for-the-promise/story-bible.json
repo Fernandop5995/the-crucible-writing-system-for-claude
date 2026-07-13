@@ -12,9 +12,9 @@
     "_date_flag": "Manuscript datelines say 982 A.M.; compendium places Book 2 in 983-985 A.M. (Flag #13)"
   },
   "progress": {
-    "current_chapter": 6,
-    "current_scene": "Chapters 5-6 second halves DRAFTED (pending author review); Movement II unmapped beyond this point",
-    "total_words": 22592,
+    "current_chapter": 7,
+    "current_scene": "Chapters 5b, 6, 7 drafted pending author review; next: Act One closer (the departure from Glintgate)",
+    "total_words": 25000,
     "chapters_complete": 4,
     "status": "mid-draft"
   },
@@ -78,6 +78,15 @@
       "summary": "DRAFTED (pending review): Lady Beauforth receives them instead of Damien — guest-fare, a round table, and an offer of exactly what they need: the Alessa ambush ledger under her seal, priced at what the Council wanted. She believes Damien didn't buy the ambush; someone spent blood in Beauforth colors. Elaine refuses the trade and bets the wife acts on the ledger anyway. Convergence on Candler's Row: Brunor's hunt in fragments — the swept ward (silence), warehouses moving 'wool' that bends oak (transaction), a broker who asked after 'Neorxn' in the spring (the name), and the message left for Halvyr: 'the accounts are all in order.' Not a cell — infrastructure, and aware. Frederick's count closes the vice: three creditors, one company, and they are not the ones holding the ledger.",
       "completed": false,
       "_draft_note": "Full chapter drafted by assistant 2026-07-12; inventions and two plot-commitment choices listed in draft/chapter-06-draft-notes.md"
+    },
+    "7": {
+      "title": "Whispernight",
+      "pov": "Galeran",
+      "dates": "14th of Ashenfall (Day of Hollow / Whispernight), 982 A.M.",
+      "word_count": 2423,
+      "summary": "DRAFTED (pending review): Dovelea Market, eastern Halreth. Galeran 'Garret' Quller, four weeks a dockhand, papered out of licensed work by a Merchant's Guild writ built to make him placeable. On Whispernight, Naeryn strings mourning charms for Rusk, Thatch, and Thom while the town gives its confessions to the millstream; Galeran keeps his 'in the arm' with the burned insignia. Four false rivermen ask after grey hair at the amnesty stone; a fifth watcher stands like a door on the Serenehold road (Anverus, unnamed). Naeryn reveals the masking sigil ('The rune taught me') and that on the night chroma runs slow, the rift-touched place in her doesn't - the pull east 'does not call. It assumes.' They slip north past the weir before the lanterns come down; Galeran plans again - 'the squad leader' returns.",
+      "completed": false,
+      "_draft_note": "Full chapter drafted by assistant 2026-07-13; inventions in draft/chapter-07-draft-notes.md"
     }
   },
   "character_states": {
@@ -208,6 +217,75 @@
       "relationships": {
         "elaine": "Cousin he brands bastard and fears",
         "wife": "Delegates precision diplomacy to her (ch6 planned)"
+      }
+    },
+    "galeran_quller": {
+      "location": "Leaving Dovelea Market northward, turning east (Halreth)",
+      "emotional_state": "Grief filed as reports; command function reawakened by the hunt",
+      "knows": [
+        {
+          "fact": "Lyra Ounvian is a Naaren Runescribe agent; his crew died to her orders and his plan",
+          "learned_in": "book1"
+        },
+        {
+          "fact": "Anverus's hunters have found Dovelea; the west road is watched",
+          "learned_in": "ch7"
+        },
+        {
+          "fact": "Naeryn's masking sigil came from the rift itself; the pull east assumes rather than asks",
+          "learned_in": "ch7"
+        }
+      ],
+      "inventory": [
+        {
+          "item": "Promise rank insignia, branding burned away",
+          "status": "carried against the forearm"
+        },
+        {
+          "item": "Three copper carp",
+          "status": "the treasury"
+        }
+      ],
+      "relationships": {
+        "naeryn": "Mutual trust rebuilt tonight; she named his unsaid want (the Promise)",
+        "anverus": "Hunter, one step behind",
+        "the_promise": "Deserter who cannot stop belonging"
+      }
+    },
+    "naeryn_mareen": {
+      "location": "With Galeran",
+      "emotional_state": "Steady hands over a growing pull she distrusts",
+      "knows": [
+        {
+          "fact": "The Kymancy rune taught her a masking sigil; the rift left visions that grow",
+          "learned_in": "book1"
+        },
+        {
+          "fact": "The pull runs east toward the sea (Aethryn beyond) and 'assumes'",
+          "learned_in": "ch7"
+        }
+      ],
+      "inventory": [
+        {
+          "item": "Mourning charms incl. three new (copper/wood/riverbone for Rusk, Thatch, Thom)",
+          "status": "braided"
+        }
+      ],
+      "relationships": {
+        "galeran": "Chosen loyalty; his conscience and mirror"
+      }
+    },
+    "anverus": {
+      "location": "Dovelea Market (Serenehold road)",
+      "emotional_state": "Unknown - rendered only at distance",
+      "knows": [
+        {
+          "fact": "The fugitives were in Dovelea; someone sold him the town",
+          "learned_in": "ch7"
+        }
+      ],
+      "relationships": {
+        "lyra_ounvian": "Her brutal, loyal enforcer (sheets)"
       }
     }
   },
