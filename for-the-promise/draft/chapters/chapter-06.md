@@ -30,7 +30,7 @@ He learned this in the street, forty paces from the Golden Scale's doors, when h
 
 Frederick breathed through it, the way he'd learned to breathe through inventory that came up short. There would be a reckoning in that ledger later — one more line in a season of lines. Not now. Now the doors were opening, and a steward in Beauforth wheat-gold was bowing them in, and Frederick did what he always did on bad ground: he started counting.
 
-Eight house guards in the entrance colonnade, spears dressed, gambesons new. Two more on the gallery above, crossbows unstrung but near to hand. The floor was Vel'Eran marble, the kind that cost more to ship than to quarry, and the chandeliers overhead burned lamp-oil scented with something sweet, and the whole vast room had been built to say one thing in a language every merchant read fluently: *we can afford to waste this.* Frederick priced the entrance hall out of habit and arrived at a figure that would have fed Caer Seryth through two winters, and felt better for knowing it the way a man feels better holding a rail in a swaying cart.
+Eight house guards in the entrance colonnade, spears dressed, gambesons new. Two more on the gallery above, crossbows unstrung but near to hand. The floor was Vel'Eran marble, the kind that cost more to ship than to quarry, and the chandeliers overhead burned lamp-oil sweetened against the river's smell, and the whole vast room had been built to say one thing in a language every merchant read fluently: *we can afford to waste this.* Frederick priced the entrance hall out of habit and arrived at a figure that would have fed Caer Seryth through two winters, and felt better for knowing it the way a man feels better holding a rail in a swaying cart.
 
 They gave up their blades at an inlaid table — Elaine unbuckled her sword as if the ceremony bored her, and Frederick laid the claymore down and watched two porters decide how to be dignified about carrying it. The steward's eyes went over them the whole while, pricing. Frederick priced him back.
 
@@ -50,13 +50,17 @@ She was not what the square had led him to expect, and Frederick understood in t
 
 The talk opened small, and Lady Beauforth was good at small. The state of the roads. The price the war-talk had put on grain — she asked Frederick's professional opinion and then *listened to it*, head tilted, asking the second question and the third, the ones that proved the first hadn't been courtesy. Within ten minutes Frederick had been walked, gently and by his own tongue, through half the Promise's supply concerns, and he pulled himself up short on the far side with the specific respect one quartermaster reserves for another who has just inventoried him through a smile.
 
+Elaine, in all that time, said nothing at all. She ate what courtesy required, kept both hands above the table, and watched the service door at Lady Beauforth's back the whole while — the way she watched every room now that Glintgate had shown it was watching them first.
+
 He put his cup down. "My lady. The bread is excellent, the wine is better than we deserve, and you could teach interrogation to the Council's own scribes. What does House Beauforth want with Johanna's Promise?"
 
 She laughed — a real one, brief, unoffended. "Damien said you were the reasonable one."
 
 "He said nothing of the sort."
 
-"No," she agreed, and refilled his cup herself. "He called you a pack ox with a ledger. But he meant it as I said it." She turned her own cup a quarter and set it down, and the warmth in the room stayed exactly where it was while the conversation underneath it changed key. "Very well, Commander. Plainly, then. My husband believes your company is a spent blade — dangerous to whoever grips it, worth nothing at market. I believe he is wrong. I believe you are the only neutral steel on this continent that five kingdoms will still allow inside their borders, and that whatever is coming will make that worth more than any tariff, treaty, or title. He wants you broken." She said it the way another woman might report the weather. "I want you *solvent.* Those two desires are not as opposed as you might think. His pride only needs one of you humbled. His house needs you whole."
+"No," she agreed, and refilled his cup herself. "He called you a pack ox with a ledger. But he meant it as I said it." She turned her own cup a quarter and set it down, and the warmth in the room stayed exactly where it was while the conversation underneath it changed key. "Very well, Commander. Plainly, then. My husband believes your company is a spent blade — dangerous to whoever grips it, worth nothing at market. I believe he is wrong. I believe you are the only neutral steel on this continent that five kingdoms will still allow inside their borders, and that whatever is coming will make that worth more than any tariff, treaty, or title. He wants you broken." She said it the way another woman might report the weather.
+
+She tore a piece of the bread then, and ate it — her own guest-fare, under her own roof, chewed and swallowed while they watched her do it. "I want you *solvent.* Those two desires are not as opposed as you might think. His pride only needs one of you humbled. His house needs you whole."
 
 "And which of you," Elaine said, "are we speaking with today?"
 
@@ -119,7 +123,7 @@ Frederick yielded first, as he always did. Elaine pulled her cloak-hood up again
 
 "And it offends her." Elaine's mouth was a line. "It should offend her. It's her house it's wearing."
 
-The words landed somewhere in Frederick and kept falling. He was still counting the bottom of it when a shape peeled out of a doorway on Candler's Row ahead of them — big, hooded, moving with a gait he'd have known in full dark on no sleep — and became Brunor, soaked through, with his hood back and his face wrong.
+Frederick had not found the bottom of that thought when a shape peeled out of a doorway on Candler's Row ahead of them — big, hooded, moving with a gait he'd have known in full dark on no sleep — and became Brunor, soaked through, with his hood back and his face wrong.
 
 Frederick had seen Brunor bleed, freeze, bury soldiers, and be wrong. He had not often seen him spooked.
 
@@ -129,7 +133,7 @@ They found a carter's arch off the row, stone on three sides, rain curtaining th
 
 The western ward first. Brunor's old connections — the houses that dealt in the kind of information that never touched paper, the performers and the door-men and the women who heard everything said after wine. "Gone quiet," Brunor said. "Not dead quiet. *Moved* quiet. Kessa's house has new girls who don't know my name. Doors that owed me are polite now. Polite and empty. The whole ward's been — " he searched for it " — swept. Softly. Over months. Nobody ordered it and everybody obeyed it. There should be noise there, Frederick. There's a silence where the noise should be, and the silence has edges."
 
-The docks second. A warehouse row on the Aldren where his last living contact still kept a counting-office. "Three warehouses paying night crews triple to move wool," Brunor said. "I watched one crew work half a bell. Six men to a crate, dead-lifting, boards flexing. Wool doesn't bend oak, and it doesn't get carried like it bites. The manifests say Varkaan trade. The drafts on the barges sit too deep by a hand. Whatever's in those crates, it isn't on any ledger in this city — and the harbor-men have learned not to see it, the same soft way the ward learned."
+The docks second. A warehouse row on the Aldren where his last living contact still kept a counting-office. "Three warehouses paying night crews triple to move wool," Brunor said. "I watched one crew work half a bell. Six men to a crate, dead-lifting, boards flexing. Wool doesn't bend oak, and it doesn't get carried like it bites. The manifests say Varkaan trade. The drafts on the barges sit too deep by a hand. Whatever's in those crates, it isn't written down honestly anywhere in this city — and the harbor-men have learned not to see it, the same soft way the ward learned."
 
 "Coin does that," Frederick said, without believing it.
 
@@ -137,7 +141,7 @@ The docks second. A warehouse row on the Aldren where his last living contact st
 
 "Say the rest," Elaine said quietly.
 
-"My contact at the counting-office. Old man, owes me his son's life, hasn't lied to me in fifteen years. I asked him who holds the warehouse paper." Brunor leaned off the wall, close enough that the rain could not carry it past the three of them. "He didn't answer that. He answered the question I hadn't asked yet. Told me the same men came asking questions in the spring — asking after the Promise, after our contracts, our routes. And one name." His eyes went to Elaine, and Frederick watched the last of the color go out of her face before the word was even loose. "*Neorxn.* Said clean, said correctly, by a dockside broker who shouldn't know it exists. Then my man leaned across his own ledger, and do you know what he said to me? He said: *they stopped asking the day your company rode through the Silver Gate. Whatever they wanted to know, Halvyr — they know it now. And they left word, in case you came. They said to tell you the accounts are all in order.*"
+"My contact at the counting-office. Old man, owes me his son's life, hasn't lied to me in fifteen years. I asked him who holds the warehouse paper." Brunor leaned off the wall, close enough that the rain could not carry it past the three of them. "He didn't answer that. He answered the question I hadn't asked yet. Told me the same men came asking questions in the spring — asking after the Promise, after our contracts, our routes. And one name." His eyes went to Elaine first, the way a man looks at the person a blow is going to land on. "*Neorxn.*" Frederick watched the color leave her face. "Said clean, said correctly, by a dockside broker who shouldn't know it exists. Then my man leaned across his counting-desk, and do you know what he said to me? He said: *they stopped asking the day your company rode through the Silver Gate. Whatever they wanted to know, Halvyr — they know it now. And they left word, in case you came. They said to tell you the accounts are all in order.*"
 
 Nobody said anything. The rain came down on Candler's Row like it was being paid to.
 
@@ -145,7 +149,7 @@ Nobody said anything. The rain came down on Candler's Row like it was being paid
 
 Frederick stood in the arch with the rain sheeting off the stone, and did the only thing he had ever known how to do with a night like this one. He counted it.
 
-The Council's contract, wrong but paying, with a countdown in it nobody could see. Item.
+The Council's contract, wrong but paying, with a lie folded somewhere in the middle of it that none of them could find yet. Item.
 
 The Beauforth ledger — Alessa's justice in a sealed envelope, held by a smiling woman whose city had been hollowed out under her family's feet, who knew where Brunor spent his days better than Frederick had. Item.
 

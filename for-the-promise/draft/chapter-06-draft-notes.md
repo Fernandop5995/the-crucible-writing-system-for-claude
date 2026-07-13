@@ -72,3 +72,20 @@ walls"), "A pause.", "Brunor's jaw worked", "voice came down to almost
 nothing", the closing triple-beat list, and a hedged laugh introduced during
 revision. Kept deliberately: the "Item." ledger device (motivated POV
 structure — flag if unwanted) and dialogue rhetoric inside quoted speech.
+
+## Revision pass (2026-07-12, second)
+- **POV error fixed**: Frederick's closing count referenced "a countdown
+  nobody could see" — knowledge no character has (the five-year clock is
+  known only to the reader via the compendium). Now: "a lie folded somewhere
+  in the middle of it."
+- **Continuity fix**: Elaine paled *before* "Neorxn" was spoken — impossible,
+  since Nullbrand mutes her mark at that range. The pallor now follows the
+  word; Brunor's look going to her first carries the anticipation instead.
+- The wife's long "solvent" speech now breathes: she eats her own guest-fare
+  mid-speech, under their eyes.
+- Added an Elaine beat during the small talk (silent, eating courtesy's
+  minimum, watching the service door) so she doesn't vanish from the scene's
+  first half.
+- Cut a vague "the words landed somewhere in Frederick"; de-crowded the
+  ledger motif (two instances reworded); named the lamp-oil's purpose
+  (sweetened against the river's smell).
