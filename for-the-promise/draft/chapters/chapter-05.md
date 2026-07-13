@@ -122,7 +122,7 @@ Three seats down, the frightened one shifted. Elaine held her eyes on Tauvor and
 
 “The city was generous,” Brunor said.
 
-Something moved through the arc of the Twelve — not sound, not quite amusement. The mark caught its edges: relief off two of them, that the summoned mercenaries had wit instead of grievance. Wariness off a third. The frightened one gave nothing but the same boredom, worn smooth as a coin.
+Amusement crossed the arc of the Twelve without reaching a single mouth. The mark caught its edges: relief off two of them, that the summoned mercenaries had wit instead of grievance. Wariness off a third. The frightened one gave nothing but the same boredom, worn smooth as a coin.
 
 “So I see.” Tauvor did not smile. He laid both hands flat on the bare table, and Elaine understood the gesture was the whole ceremony — no wine, no charter, no clerk in the corner scratching the minutes into being. What was said in this room would exist only in the fourteen skulls that heard it. “Commander Halvyr. Commander Morrandis. Commander Rowain. Thank you for answering the summons. I will not spend your patience on courtesies. The Council requires your company’s service, and you will not understand the shape of the work until you understand what we have done. So I am going to tell you what we have done.”
 
@@ -138,7 +138,7 @@ Nobody in the arc moved. That was its own answer — Elaine let the mark drift t
 
 “The procedure was sound,” Tauvor went on. “The restraints were sound. The wards were sound. None of it mattered, because the creature did not resist with its body. When the third incision opened, it — showed them something.” For the first time his voice checked, a hitch smaller than a breath, and the mark read what rode beneath it and Elaine kept her face empty by old practice. Fear. Not the performing kind. The kind that has been slept beside. “Every soul in that theater was struck at once with a vision none of them were built to survive. Our survivors of the aftermath — those outside the wards — describe the researchers screaming of the same things in the same breath. A rift, open before them. A rune inside it, burning with a will of its own. And something beyond the rune, in the dark behind the light, that looked back.”
 
-The room’s torchlight seemed to sit very still.
+Along the arc of the Twelve, no robe rustled.
 
 “Every one of them went mad,” Tauvor said. “Not in the way grief makes men mad. At once. Together. As one.”
 
@@ -148,7 +148,7 @@ Elaine had stopped hearing him somewhere inside the last sentence, because she h
 
 This had not asked. The Wyrshade had not attacked fifteen minds. It had opened a channel and *made them look* — turned the spell inside out and poured its own remembering down fifteen throats at once.
 
-She said none of it. She stood with her hands loose and her face schooled and the knowledge sitting behind her teeth like a stone, because the room held at least one Warden whose fear was older than this meeting and one whose guilt was years deep, and she could not name which robes they wore. A word spoken here would live in twelve memories she could not read all the way down. And the word behind the word — the one that would drag Melody’s reports and the Vigil and the mark on her own arm into the light with it — that one she could not afford at any price.
+She said none of it. She stood with her hands loose, her face giving the Twelve nothing, the knowledge shut behind her teeth, because the room held at least one Warden whose fear was older than this meeting and one whose guilt was years deep, and she could not name which robes they wore. A word spoken here would live in twelve memories she could not read all the way down. And the word behind the word — the one that would drag Melody’s reports and the Vigil and the mark on her own arm into the light with it — that one she could not afford at any price.
 
 Brunor had not moved. She knew his stillness the way she knew her own pulse, and this was the worst one — the stillness he wore when a thing stopped being a story and started being a war.
 
@@ -172,9 +172,9 @@ He drew a paper from inside his robe — the only paper in the room, and Elaine 
 
 The letters were ordinary Caltheran script, and they spelled nothing. Elaine read them twice and felt her mouth refuse the shapes; Frederick’s lips moved a fraction and stopped, the way a man abandons a ford halfway. Ink, holding sounds no throat in the room could carry. On the far side of the fire, someone had said this. Through a burning man. To an audience of the dying.
 
-“We do not know what it means,” Tauvor said. “I will tell you what I believe, and you may weigh whether the belief becomes me. Fifteen deaths are a wound. Wounds close. But a voice is not a wound. A voice is an address.” His eyes came up from the paper, and the fear beneath the floorboards rose until it stood just behind the brown of them, disciplined, chained, and entirely real. “Something heard what we did in that theater, commanders. Something answered. It is the answering that keeps me from sleep.”
+“We do not know what it means,” Tauvor said. “I will tell you what I believe, and you may weigh whether the belief becomes me. Fifteen deaths are a wound. Wounds close. But a voice is not a wound. A voice is an address.” His eyes came up from the paper, and the fear beneath the floorboards rose until it stood just behind the brown of them. “Something heard what we did in that theater, commanders. Something answered. It is the answering that keeps me from sleep.”
 
-The silence in the chamber belonged to no one at all.
+None of the Twelve looked at one another. It was the loudest thing the room had done yet.
 
 “What did it say?” Brunor asked. His voice came out rough and even. “Your scholars. The Archive. Somebody has a guess.”
 
@@ -196,7 +196,7 @@ The name went through Elaine like a dropped stitch.
 
 “And what they’re looking for. If we’re standing over your scholars in the worst forest on the continent, I’d like a better heading than *old sounds*.”
 
-“You have the heading the Archive has.” Tauvor said it without weight, and the mark said it was a lie, and said it quietly — not the floorboard fear but something laid flatter and colder, the smooth deliberate grain of a man withholding on purpose. “Answers, Commander. The origin of the tongue. What the old records would not name. If there is more to know, it is in that forest, not in this room.”
+“You have the heading the Archive has.” Tauvor said it without weight, and the mark said it was a lie, and said it quietly — a flat cold grain beneath the words, laid straight and on purpose: the read of a man who knows exactly what he is not saying. “Answers, Commander. The origin of the tongue. What the old records would not name. If there is more to know, it is in that forest, not in this room.”
 
 *There it is,* she thought. The room had no ink because the room was the lie. Enough horror to make the stakes real. Enough withheld that they would walk into the dark carrying the Council’s lantern and never see the shape of what it lit.
 
@@ -204,11 +204,11 @@ Brunor spoke before Frederick could count his way to the next question.
 
 “You’ll have our answer when we’ve decided it.”
 
-For a moment the two of them looked at each other down the length of the bare table, the dying man and the bruised one, and something passed between them that the mark could not name because it belonged to commanders and not to feelings — the mutual recognition of weight.
+The two of them looked at each other down the length of the bare table, the dying man and the bruised one, and the mark gave her nothing off either of them — what went between them did not travel by feeling. It was recognition, one weight-bearing man to another, and it needed no reading.
 
 “Of course,” Tauvor said. “You came within the week. Decide within another.” He rose, and the Twelve rose with him in one motion, matched robes swinging like a curtain drawn on the whole proceeding. “The Council thanks Johanna’s Promise. This room will not remember what was said in it. I ask that you be equally kind.”
 
-The doors were opened from without. The lane of waiting petitioners took them back the way water takes a stone.
+The doors were opened from without. The lane of waiting petitioners closed behind them as they went, and kept no mark of their passing.
 
 They came out of the College into the last of the Goldroad’s light with the crowd’s wanting washing up against Elaine like tidewater, and it was almost a relief — a thousand small hungers, honest and human and none of them wearing robes. By the eastern windows, the place where Unara Lackmin had stood was empty.
 

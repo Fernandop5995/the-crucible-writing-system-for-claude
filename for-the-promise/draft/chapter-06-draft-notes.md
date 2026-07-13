@@ -61,3 +61,14 @@ Frederick's ledger idiom).
 - "One will, spending through a hundred hands" — Order infrastructure thesis
 - The spring questions about Promise routes — possible tie to how Alessa's
   route leaked (unstated, available)
+
+## Banned-list pass (2026-07-12)
+Audited against `planning/source-banned-list.md` after the author supplied it.
+Fixed: "catalogued him back" (narrated cognition → "priced"), "pleasantly"
+adverb tag, two "something underneath" placeholders, "The room went very
+quiet", stillness-temperature metaphor, "wire-tight", "For a long moment",
+"drained precision", "smooth as riverbed stone" (→ her own canon "smooth
+walls"), "A pause.", "Brunor's jaw worked", "voice came down to almost
+nothing", the closing triple-beat list, and a hedged laugh introduced during
+revision. Kept deliberately: the "Item." ledger device (motivated POV
+structure — flag if unwanted) and dialogue rhetoric inside quoted speech.

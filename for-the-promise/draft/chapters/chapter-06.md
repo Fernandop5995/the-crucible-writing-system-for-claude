@@ -32,7 +32,7 @@ Frederick breathed through it, the way he'd learned to breathe through inventory
 
 Eight house guards in the entrance colonnade, spears dressed, gambesons new. Two more on the gallery above, crossbows unstrung but near to hand. The floor was Vel'Eran marble, the kind that cost more to ship than to quarry, and the chandeliers overhead burned lamp-oil scented with something sweet, and the whole vast room had been built to say one thing in a language every merchant read fluently: *we can afford to waste this.* Frederick priced the entrance hall out of habit and arrived at a figure that would have fed Caer Seryth through two winters, and felt better for knowing it the way a man feels better holding a rail in a swaying cart.
 
-They gave up their blades at an inlaid table — Elaine unbuckled her sword without expression, and Frederick laid the claymore down and watched two porters decide how to be dignified about carrying it. The steward's eyes catalogued them the whole while. Frederick catalogued him back.
+They gave up their blades at an inlaid table — Elaine unbuckled her sword as if the ceremony bored her, and Frederick laid the claymore down and watched two porters decide how to be dignified about carrying it. The steward's eyes went over them the whole while, pricing. Frederick priced him back.
 
 "The Lord Chancellor sends his regrets," the steward said, leading them beneath the gallery. "Affairs of the city detain him. The Lady Beauforth will receive you."
 
@@ -56,7 +56,7 @@ She laughed — a real one, brief, unoffended. "Damien said you were the reasona
 
 "He said nothing of the sort."
 
-"No," she agreed, pleasantly. "He called you a pack ox with a ledger. But he meant it as I said it." She turned her cup a quarter and set it down, and the warmth in the room stayed exactly where it was while something underneath it changed key. "Very well, Commander. Plainly, then. My husband believes your company is a spent blade — dangerous to whoever grips it, worth nothing at market. I believe he is wrong. I believe you are the only neutral steel on this continent that five kingdoms will still allow inside their borders, and that whatever is coming will make that worth more than any tariff, treaty, or title. He wants you broken." She said it the way another woman might report the weather. "I want you *solvent.* Those two desires are not as opposed as you might think. His pride only needs one of you humbled. His house needs you whole."
+"No," she agreed, and refilled his cup herself. "He called you a pack ox with a ledger. But he meant it as I said it." She turned her own cup a quarter and set it down, and the warmth in the room stayed exactly where it was while the conversation underneath it changed key. "Very well, Commander. Plainly, then. My husband believes your company is a spent blade — dangerous to whoever grips it, worth nothing at market. I believe he is wrong. I believe you are the only neutral steel on this continent that five kingdoms will still allow inside their borders, and that whatever is coming will make that worth more than any tariff, treaty, or title. He wants you broken." She said it the way another woman might report the weather. "I want you *solvent.* Those two desires are not as opposed as you might think. His pride only needs one of you humbled. His house needs you whole."
 
 "And which of you," Elaine said, "are we speaking with today?"
 
@@ -66,9 +66,9 @@ She said it simply, without theater, which was its own theater:
 
 "The men who took your Captain Alessa on the Glintgate road. Their names. The name of the broker who bought her route, the house where he counts his coin, and the ledger that ties the payments together. Delivered to you in writing, with my seal on it, to do with as your justice requires."
 
-The room went very quiet.
+Nobody reached for the wine.
 
-Frederick did not look at Elaine. It took a discipline he intended to be paid for someday — because he could feel her stillness beside him change temperature, and he knew, the way he knew his own inventory, exactly what had just been set on the table. Not coin. Not contracts. The one debt in the company's books that had been bleeding for two months. The thing Brunor had buried, the thing the rain-argument had been about, the thing Elaine had demanded in an alley with her voice dropping its base — *where is the justice in it* — offered up now in a warm room by a smiling woman, wrapped in guest-bread.
+Frederick did not look at Elaine. It took a discipline he intended to be paid for someday — because he could feel the quality of her stillness change beside him, listening becoming aim, and he knew, the way he knew his own inventory, exactly what had just been set on the table. Not coin. Not contracts. The one debt in the company's books that had been bleeding for two months — the debt Brunor had buried and Elaine had demanded payment on in a rain-soaked alley, *where is the justice in it* — offered up now in a warm room by a smiling woman, wrapped in guest-bread.
 
 *Offers you exactly what you need,* Frederick thought, *and watches your face while you decide whether the price is hidden in the offer.*
 
@@ -88,7 +88,7 @@ And there it was. The price, hidden in the offer, exactly where prices are alway
 
 "I want to know what moves into my city before it unpacks," she said. "Call it what you like."
 
-Frederick counted. He was aware of Elaine beside him, drawn wire-tight beneath a calm that would have fooled anyone who had known her less than thirty years; aware of the guards beyond the door and the crossbows above the gallery and the bread in his own stomach that meant nobody would be murdered before supper; aware, mostly, of the shape of the trade. Alessa's justice against the Council's secrets. A debt they were owed, priced in a debt they'd be taking on. Two ledgers sliding across a round table, and Damien's wife watching to see which one they reached for.
+Frederick counted. He was aware of Elaine beside him, calm enough to fool anyone who had known her less than thirty years; aware of the guards beyond the door and the crossbows above the gallery and the bread in his own stomach that meant nobody would be murdered before supper; aware, mostly, of the shape of the trade. Alessa's justice against the Council's secrets. A debt they were owed, priced in a debt they'd be taking on. Two ledgers sliding across a round table, and Damien's wife watching to see which one they reached for.
 
 "No," Elaine said.
 
@@ -100,7 +100,7 @@ Lady Beauforth's eyebrows rose a fraction — the first unplanned thing her face
 
 "You said it yourself, my lady. Someone spent blood in your city, wearing your colors, and it offends you." Elaine held her eyes. "You didn't buy that ledger to file it."
 
-For a long moment the two women looked at each other across the guest-fare, and Frederick, who had spent his life reading rooms, could not have priced this one to save his neck. Then Lady Beauforth laughed again — softer this time, with something underneath it that might have been satisfaction, or its more dangerous cousin, appetite.
+The two women looked at each other across the guest-fare, and Frederick, who had spent his life reading rooms, could not have priced this one to save his neck. Then Lady Beauforth laughed again — softer this time, and under the softness, appetite.
 
 "Damien fights everyone the same way," she said, "and one day it will kill him. I don't. Good afternoon, Commanders. My steward will see you out." And then, as they reached the door, without any change of tone at all: "Do give Commander Halvyr my regards. Whatever he's looking for in the lower wards — I do hope he finds it before it finds him."
 
@@ -113,7 +113,7 @@ They did not speak until the Golden Scale was two bridges behind them, and then 
 "She knew where—"
 "The names are real."
 
-Frederick yielded first, as he always did. Elaine pulled her cloak-hood up against the drizzle, and beneath the low grey light her face had the drained precision it wore when the mark had been working through a long room. "The names are real," she said again. "Everything under her was smooth as riverbed stone — she performs warmth the way Tauvor performs calm, and I couldn't get beneath it, not from cold. But when she made the offer, the performance and the ground under it matched. She has the ledger. She means to use it." A pause. "And when she said Damien didn't pay for Alessa, she believed it."
+Frederick yielded first, as he always did. Elaine pulled her cloak-hood up against the drizzle, and beneath the low grey light her face had the emptied look it wore when the mark had been working through a long room. "The names are real," she said again. "Everything under her was smooth walls — she performs warmth the way Tauvor performs calm, and I couldn't get under them without pushing. But when she made the offer, the performance and the ground under it matched. She has the ledger. She means to use it." She pulled the hood lower. "And when she said Damien didn't pay for Alessa, she believed it."
 
 "Which means someone bought Promise blood in Beauforth colors," Frederick said slowly, "and the chancellor's own wife can't find the purse it came from."
 
@@ -133,11 +133,11 @@ The docks second. A warehouse row on the Aldren where his last living contact st
 
 "Coin does that," Frederick said, without believing it.
 
-"Coin buys silence that leaks." Brunor's jaw worked. "This doesn't leak. That's the wrongness of it — it's not corruption, Frederick, it just wears corruption's clothes. Corruption is a hundred men each taking a cut. This is one will, spending through a hundred hands. The pattern only shows if you stand far enough back, and I've been standing back for three days." He stopped. The rain filled the arch with its noise.
+"Coin buys silence that leaks." Brunor pressed a thumb along the wet bandage on his forearm. "This doesn't leak. That's the wrongness of it — it's not corruption, Frederick, it just wears corruption's clothes. Corruption is a hundred men each taking a cut. This is one will, spending through a hundred hands. The pattern only shows if you stand far enough back, and I've been standing back for three days." He stopped. The rain filled the arch with its noise.
 
 "Say the rest," Elaine said quietly.
 
-"My contact at the counting-office. Old man, owes me his son's life, hasn't lied to me in fifteen years. I asked him who holds the warehouse paper." Brunor's voice came down to almost nothing. "He didn't answer that. He answered the question I hadn't asked yet. Told me the same men came asking questions in the spring — asking after the Promise, after our contracts, our routes. And one name." His eyes went to Elaine, and Frederick watched the last of the color go out of her face before the word was even loose. "*Neorxn.* Said clean, said correctly, by a dockside broker who shouldn't know it exists. Then my man leaned across his own ledger, and do you know what he said to me? He said: *they stopped asking the day your company rode through the Silver Gate. Whatever they wanted to know, Halvyr — they know it now. And they left word, in case you came. They said to tell you the accounts are all in order.*"
+"My contact at the counting-office. Old man, owes me his son's life, hasn't lied to me in fifteen years. I asked him who holds the warehouse paper." Brunor leaned off the wall, close enough that the rain could not carry it past the three of them. "He didn't answer that. He answered the question I hadn't asked yet. Told me the same men came asking questions in the spring — asking after the Promise, after our contracts, our routes. And one name." His eyes went to Elaine, and Frederick watched the last of the color go out of her face before the word was even loose. "*Neorxn.* Said clean, said correctly, by a dockside broker who shouldn't know it exists. Then my man leaned across his own ledger, and do you know what he said to me? He said: *they stopped asking the day your company rode through the Silver Gate. Whatever they wanted to know, Halvyr — they know it now. And they left word, in case you came. They said to tell you the accounts are all in order.*"
 
 Nobody said anything. The rain came down on Candler's Row like it was being paid to.
 
@@ -155,7 +155,7 @@ Three creditors. One small company. Every account in order.
 
 "Well," Frederick said at last, because someone had to, and it had been him for thirty years. "I'll say this much for Glintgate. Nobody's tried to sell us a three-armed serving girl."
 
-Elaine made a sound that was almost a laugh and put her back against the stone between her two commanders, and the three of them stood watching the rain hammer the empty row — a scout who couldn't say what she knew, a soldier who couldn't unknow what he'd counted, and a quartermaster totting up debts in the dark.
+Elaine laughed — one breath of it, the first the day had gotten out of her — and put her back against the stone between her two commanders, and the three of them stood watching the rain hammer the empty row, each holding a different page of the same bad ledger.
 
 The city had its teeth in them now. Frederick had counted every one, and the count kept coming up the same.
 

@@ -49,3 +49,13 @@ both). If Chapter 5 should match, they'd be added at the top — author's call.
 The roadmap's Beat 1 "one week after the tavern" timeskip is superseded by
 your prose ("the council tomorrow" / "the evening before"), so the drafted
 scene stays on the 9th of Ashenfall, the day after the duel.
+
+## Banned-list pass (2026-07-12)
+Audited against `planning/source-banned-list.md` after the author supplied it.
+Fixed in the drafted section: "Something moved through the arc" (vague
+interiority + hedge), "face schooled" + stone simile, anthropomorphized
+torchlight and silence lines, "For a moment", "something passed between
+them" (articulation by proxy), "the way water takes a stone" exit simile,
+a "not X but something Y" construction, and a trailing hedge triple
+("disciplined, chained, and entirely real"). The author's first-half prose
+was not touched.

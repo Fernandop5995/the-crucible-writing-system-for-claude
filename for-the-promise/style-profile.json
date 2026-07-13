@@ -4,6 +4,27 @@
     "captured": "2026-07-12",
     "note": "Descriptive, not prescriptive. When drafting, match these patterns; when in doubt, imitate the nearest written scene."
   },
+  "banned_list": {
+    "source": "planning/source-banned-list.md — the author's BANNED: THE DEFINITIVE GUIDE. HARD CONSTRAINT: audit every drafted scene against it before saving.",
+    "highest_frequency_traps": [
+      "'something' + verb as interiority placeholder — name what is actually happening",
+      "'X, then Y' sequential action pairs",
+      "anthropomorphized silence (stretches/hangs/sits/belongs) — show who breaks it and what it costs",
+      "'not X, but Y' hedges and 'isn't quite' reactions — commit",
+      "triple-beat noun/fragment lists and echo-line parallel sentences",
+      "'for a (long) moment' / 'a pause, then' beat placeholders",
+      "narrated cognition: filed/noted/registered/catalogued — cut every instance",
+      "stock physical tells: jaw works/tightens, breath catches, knuckles whiten, goes very still",
+      "precision/control cluster: surgical, practiced ease, methodical, calculated",
+      "texture defaults: steel/iron/velvet/silk; temperature metaphors for emotion",
+      "impact similes (like a blow/punch) and stone-in-water ripples",
+      "adverb dialogue tags (softly, quietly, finally); voice drops/hardens",
+      "articulation by proxy: 'a look that said', 'didn't need words'",
+      "participle editorializing: highlighting/underscoring/reflecting",
+      "'commanded the room' presence cliches; gravitational attraction metaphors"
+    ],
+    "workflow": "Draft, then grep the new text against the quick-scan table in the source doc before committing. The author's existing prose is exempt from retroactive edits unless they ask."
+  },
   "pov_and_structure": {
     "pov": "Close third person, single POV per chapter, rotating (Brunor, Elaine, Phoebe, Frederick planned)",
     "chapter_header": "Chapter N: [POV name]",
