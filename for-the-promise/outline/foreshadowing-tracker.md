@@ -60,3 +60,9 @@
 - NEW (handle with care): the author's answer sheet says Elyrieth is awake
   and has watched Elaine for years — recontextualizes "I see you, little
   vessel."
+
+## Author Rulings (2026-07-12)
+- Ch 5 council scene KEPT as drafted (confession + escort). The handoff's
+  missing first team of scholars is retargeted as an Act Two forest
+  discovery — a plant the reader doesn't know exists yet.
+- Ch 6 KEPT; Frederick is a one-chapter POV exception to the five-POV lock.

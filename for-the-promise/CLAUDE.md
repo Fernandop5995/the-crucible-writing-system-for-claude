@@ -55,14 +55,16 @@ Book Title: For the Promise
 - Manuscript ingested; style profile + banned list enforced; chapters 5b and
   6 drafted (now partially off-canon vs handoff — see below)
 
+## Author Rulings (2026-07-12)
+- **Ch 5 council scene stands as drafted** (confession + escort contract);
+  the handoff's already-missing scholars become an Act Two discovery in the
+  forest, not a disclosure
+- **Ch 6 stands: Frederick is a one-chapter POV exception** to the five-POV
+  lock
+
 ## Open Questions (author input needed)
-- **CONFLICT 1**: drafted ch 5 council scene (full confession + escort
-  contract, per roadmap) vs handoff (subtle implication + recovery of
-  already-missing scholars + scapegoat shape) — rework or keep?
-- **CONFLICT 2**: drafted ch 6 is Frederick POV; handoff canon-locks five
-  POVs without him — re-POV, keep as exception, or shelve?
 - Council venue wording: handoff says "Golden Scales guildhall"; written
-  prose says College of Cvostral
+  prose says College of Cvostral (prose stands unless overruled)
 - Damien: knowing participant or useful idiot (author's TBD)
 - Damien's unheard rain-words to Elaine — planned reveal point?
 - Ch 1 "Telvor" → Tauvor (one-word prose fix, author's call)

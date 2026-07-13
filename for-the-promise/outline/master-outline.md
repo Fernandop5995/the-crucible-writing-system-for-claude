@@ -74,25 +74,26 @@ does NOT name Elyrieth.
 | 2 | Elaine | The Square | WRITTEN |
 | 3 | Phoebe | The Keep | WRITTEN |
 | 4 | Brunor | The Duel | WRITTEN |
-| 5 | Elaine | The Tavern / The Council | Author's prose through Tauvor's opening; **assistant-drafted confession OFF-CANON vs handoff — see conflicts** |
-| 6 | Frederick | The Golden Scale and the Hunt | **Assistant-drafted; POV OFF-CANON vs handoff five-POV lock — see conflicts** |
+| 5 | Elaine | The Tavern / The Council | DRAFTED (author ruled: draft stands) |
+| 6 | Frederick | The Golden Scale and the Hunt | DRAFTED (author ruled: Frederick POV exception stands) |
 | 7-8ish | — | Galeran in Halreth; departure from Glintgate | UNWRITTEN |
 | 9+ | — | Act Two threads | UNWRITTEN |
 
-## Handoff Conflicts (author must rule)
+## Handoff Conflicts — AUTHOR RULINGS (2026-07-12)
 
-1. **Chapter 5's council scene.** Drafted (from the roadmap): Tauvor's full
-   confession — vivisection horror, the butchery, the voice — and an *escort
-   contract for a new expedition*. Handoff (§5): subtle implication, no
-   Elyrieth, no full confession, and the ask is *discreet recovery of
-   scholars already missing* behind closed borders. Also §2.4 gives the
-   vivisection a different mechanism (mind-read → brain death) than the
-   roadmap's madness → butchery → the burning voice.
-2. **Chapter 6 exists outside the five-POV lock.** The roadmap made
-   Frederick the ch-6 lens; the handoff's canon lock lists five POVs without
-   him. The wife-meeting and hunt content also has no anchor in the handoff's
-   act plan (Damien's landing point: UNDECIDED).
-3. **Venue wording**: handoff §5.1 puts the council meeting "at the Golden
-   Scales guildhall"; the written ch-5 prose puts it at the College of
-   Cvostral (and the guildhall belongs to Damien's thread). Prose likely
-   governs, but confirm.
+1. **Chapter 5's council scene: KEEP THE DRAFT AS-IS.** The roadmap's full
+   confession + escort contract governs; the handoff's §5 description is
+   outdated for this scene. Integration path for the rest of the book: the
+   handoff's *already-missing first team of scholars* becomes something the
+   Promise DISCOVERS (Act Two: "they find signs of the scholars") rather
+   than something Tauvor disclosed — the scapegoat architecture is unchanged
+   (the Promise still crosses closed borders carrying Caltheran's secret).
+   The roadmap's vivisection account (madness → butchery → the voice) is the
+   canon version of the event.
+2. **Chapter 6: FREDERICK STAYS — the five-POV lock gains one exception.**
+   Book 2 POVs: Brunor (6), Elaine (7), Phoebe (6), Justice (5), Galeran
+   (5-6), plus Frederick's single Act One chapter (Ch 6).
+3. **Venue wording** (unresolved, low stakes): handoff §5.1 says "Golden
+   Scales guildhall" for the council meeting; the written prose puts the
+   council at the College of Cvostral and gives the guildhall to Damien's
+   thread. The prose stands unless the author says otherwise.
