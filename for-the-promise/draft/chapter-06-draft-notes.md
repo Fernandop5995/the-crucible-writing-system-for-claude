@@ -62,6 +62,28 @@ Frederick's ledger idiom).
 - The spring questions about Promise routes — possible tie to how Alessa's
   route leaked (unstated, available)
 
+## De-slop pass (2026-07-13, author-requested)
+Prose-only; no plot, canon, or structural changes. Removed: "a half-beat"
+(banned 2.37), "the particular smoothness" and "the specific respect"
+(banned 2.32), "relitigate" (register), "Frederick noted", "breathed
+through it… one more line in a season of lines", "voice stayed level and
+quiet" ×2, "small, warm, and deliberate", "in the first three heartbeats",
+the wore/worn ×4 antithesis in the wife's intro, "a smile that reached
+them" (→ "smiled like she meant it"), "no edge" (kept the concrete two),
+"with the deliberation of", the watched ×3 sentence, the wife's cup
+quarter-turn (now Elaine's tell alone; wife sets hers down untouched),
+"which was its own theater" paradox flip (→ "the plainness had been
+rehearsed"), "the quality of her stillness", "Not coin. Not contracts."
+merged, "And there it was.", the aware/aware/aware anaphora (→ counted
+list), "softer… under the softness", "yielded first, as he always did"
+(→ waved her on), "said slowly/quietly", "mouth was a line", "the person a
+blow is going to land on" (impact family), "*infrastructure*" (→
+*groundwork*, pairs with "the ground we walked in on"), "small, once,
+gone" triple, "thirty years" ×2 (kept the strongest), "each holding a
+different page of the same bad ledger" (crowded the closing line).
+Also converted the chapter's straight quotes/apostrophes to typographic
+to match the manuscript.
+
 ## Banned-list pass (2026-07-12)
 Audited against `planning/source-banned-list.md` after the author supplied it.
 Fixed: "catalogued him back" (narrated cognition → "priced"), "pleasantly"

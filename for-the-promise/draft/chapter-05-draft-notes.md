@@ -50,6 +50,29 @@ The roadmap's Beat 1 "one week after the tavern" timeskip is superseded by
 your prose ("the council tomorrow" / "the evening before"), so the drafted
 scene stays on the 9th of Ashenfall, the day after the duel.
 
+## De-slop pass (2026-07-13, author-requested)
+Prose-only pass over the drafted section (below the marker); the author's
+first half untouched, no plot or canon changes. Removed: narrated cognition
+("the mark noted" → the mark catches the word), "He paused, exactly long
+enough" and "He let it stand a moment" (replaced with action), "hands had
+gone still" / "voice was easy" (→ delivery-date simile, hands quit moving),
+"eyes rested on them evenly", the "held the stillness of men… held the
+stillness of men" echo pair, "Not the performing kind" negation, "there it
+was, the crack" (→ the hitch returns, wider), "the holding was becoming the
+whole work" gerund abstraction, "Elaine did not miss that", "tapped…
+softly", the "Through a burning man. To an audience of the dying." fragment
+chop (merged), Brunor's "voice came out rough and even" (duplicated the
+author's tavern beat), "measured and purposeful", "unreadable" + third
+floorboards use, "The sentence sat where he had placed it", "Not a
+question. Already counting." fragments, "without weight… said it quietly…
+flat cold grain" (+ tense fix), the "Enough X. Enough Y." echo (merged),
+"and it needed no reading" proxy tail, "kept no mark of their passing"
+(word collision with the mark), tidewater (fourth water simile), "Frederick
+broke first, as he always did" (duplicated the author's line 45), "worn
+smooth as a coin" (third use in book), "thirty years" (kept the author's
+two), "too far to feel her looking" tangle, Unara-window staging fix,
+"afford at any price" → "spend at any price".
+
 ## Banned-list pass (2026-07-12)
 Audited against `planning/source-banned-list.md` after the author supplied it.
 Fixed in the drafted section: "Something moved through the arc" (vague
